@@ -55,7 +55,6 @@ This dashboard helps users explore restaurant-related insights from Zomato data 
 1. Clone the repo or download the files.
 2. Open `Zomato_Insights_Dashboard.pbix` in Power BI Desktop.
 3. Explore or modify visuals as needed.
-4. (Optional) Load `zomato_data.xlsx` to make further data model changes.
 
 ---
 
@@ -87,9 +86,9 @@ This dashboard helps users explore restaurant-related insights from Zomato data 
 
 ## ✍️ Author
 
-**Arv (aka Gabbar)**  
-📫 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-📧 arvbrahman@example.com
+**Abhishek Kumar Mishra**  
+📫 [LinkedIn]((https://www.linkedin.com/in/arvbrahman/))  
+📧 abhishekmishra3022@gmail.com
 
 ---
 
