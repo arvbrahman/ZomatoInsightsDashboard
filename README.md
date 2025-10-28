@@ -4,7 +4,7 @@
 A Power BI dashboard providing insights into Zomato's global restaurant data — including cuisine trends, restaurant distribution, delivery & booking preferences, and rating comparisons.
 
 ![Zomato Dashboard Preview](https://github.com/arvbrahman/ZomatoInsightsDashboard/raw/main/snapshot.jpg)
-
+https://app.powerbi.com/groups/me/reports/66058aae-285d-47cd-af8d-dd3f93c7a86a/ReportSection?experience=power-bi
 ---
 
 ## 📊 Overview
